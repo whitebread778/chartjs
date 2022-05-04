@@ -1,11 +1,26 @@
 .App {
   text-align: center;
+  display: grid;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+
+#BarChart-wrapper {
+  display: flex;
+}
+
+.title {
+  font-size: x-large;
+}
+
+/* canvas {
+  margin-top: 50px;
+} */
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -26,6 +41,11 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.BarChart-wrapper {
+  height: 1000px;
+  width: 1000px;
 }
 
 @keyframes App-logo-spin {
