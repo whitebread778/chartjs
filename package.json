@@ -2,7 +2,7 @@
   "name": "chart-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/whitebread778/chartjs",
+  "homepage": "https://whitebread778.github.io",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.4",
