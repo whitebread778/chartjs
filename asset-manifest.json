@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/whitebread778/chartjs/static/css/main.e72e24ce.css",
+    "main.js": "/whitebread778/chartjs/static/js/main.7efdd074.js",
+    "index.html": "/whitebread778/chartjs/index.html",
+    "main.e72e24ce.css.map": "/whitebread778/chartjs/static/css/main.e72e24ce.css.map",
+    "main.7efdd074.js.map": "/whitebread778/chartjs/static/js/main.7efdd074.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e72e24ce.css",
+    "static/js/main.7efdd074.js"
+  ]
+}
